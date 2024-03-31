@@ -1,0 +1,1 @@
+./nbminer -a ethash -o stratum+tcp://asia2.ethermine.org:14444 -u ltc1qny8qhxqsvvwh767mg3qchne6vha2tlc3rqtze3.goo -log

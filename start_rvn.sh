@@ -1,0 +1,1 @@
+./nbminer -a kawpow -o stratum+tcp://stratum-ravencoin.flypool.org:13333 -u ltc1qny8qhxqsvvwh767mg3qchne6vha2tlc3rqtze3.go
